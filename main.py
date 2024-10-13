@@ -1,8 +1,6 @@
 import telebot
 from config import TOKEN
 
-API_TOKEN = '<api_token>'
-
 bot = telebot.TeleBot(TOKEN)
 
 
