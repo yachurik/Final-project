@@ -1,2 +1,2 @@
-TOKEN = "7900630451:AAHV0UnAUlsqy36D0bd7NSKrP1iPCgS4DJQ"
+TOKEN = "Токен"
 DATABASE = "finance.db"
